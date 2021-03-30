@@ -30,9 +30,9 @@ a:active {
     }
   </style>
 </head>
-<h1> Micah's personal hosting site </h1>
+#  Micah's personal hosting site
   This is where I host my websites and projects that I need to test.<br>
   There is no code on this website but there are projects.
-  <h2> Projects</h2>
+  ## Projects
 <b><a href="https://mk909wbur.github.io/dianes-website/">Diane's Website</a></b>
-  <h3> Thats all for now </h3>
+  ### Thats all for now
