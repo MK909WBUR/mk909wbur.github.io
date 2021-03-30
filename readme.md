@@ -33,6 +33,6 @@ a:active {
 #  Micah's personal hosting site
   This is where I host my websites and projects that I need to test.<br>
   There is no code on this website but there are projects.<br>
-  # Project s<br>
+  # Projects<br>
 <b><a href="https://mk909wbur.github.io/dianes-website/">Diane's Website</a></b><br>
   # Thats all for now
