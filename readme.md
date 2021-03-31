@@ -1,29 +1,4 @@
 <head>
-  <style>
-/* unvisited link */
-a:link {
-  color: blue;
-  text-decoration: none;
-}
-
-/* visited link */
-a:visited {
-  color: blue;
-  text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-  color: darkblue;
-  text-decoration: none;
-}
-
-/* selected link */
-a:active {
-  color: blue;
-  text-decoration: none;
-}
-  </style>
   <title>Micah's Website</title>
   <link rel="icon" href="/images/micah's-logo.svg" type="image/svg">
 </head>
