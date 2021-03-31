@@ -24,6 +24,8 @@ a:active {
   text-decoration: none;
 }
   </style>
+  <title>Micah's Website</title>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <h1>Micah's personal hosting site</h1>
   This is where I host my websites and projects that I need to test.<br>
