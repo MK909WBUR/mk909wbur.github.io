@@ -1,26 +1,13 @@
 <head>
   <style>
+    
     body {
       text-align: center;
-    }
-
-    .page-header {
-      color: #fff;
-      text-align: center;
-      background-color: #159957;
-      background-image: linear-gradient(120deg, #155799, #159957)
-    }
-
-    @media screen and (min-width: 64em) {
-      .page-header {
-        padding: 5rem 6rem
-      }
     }
     a {
     color: #1e6bb8;
     text-decoration:none
 }
-
 a:hover {
     text-decoration:underline
 }
