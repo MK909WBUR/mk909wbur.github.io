@@ -1,17 +1,4 @@
 <head>
-  <style>
-    
-    body {
-      text-align: center;
-    }
-    a {
-    color: #1e6bb8;
-    text-decoration:none
-}
-a:hover {
-    text-decoration:underline
-}
-  </style>
   <title>Micah's Website</title>
   <link rel="icon" href="/images/micah's-logo.svg" type="image/svg">
 </head>
